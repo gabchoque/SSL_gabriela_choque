@@ -1,0 +1,1 @@
+Este TP tiene por finalidad aprender conceptos basicos de C y de Git.
